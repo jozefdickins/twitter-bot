@@ -1,0 +1,26 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
+  "dependencies": {
+    "introturf": "^1.0.1",
+    "johnny-five": "^0.14.1",
+    "mongodb": "^3.0.2",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jozefdickins/twitter-bot.git"
+  },
+  "author": "jozefdickins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jozefdickins/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/jozefdickins/twitter-bot#readme"
+}
